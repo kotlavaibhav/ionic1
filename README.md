@@ -1,4 +1,4 @@
-# ionic1
+# ionic1 - Vaibhav Kotla
 
 Ionic App for Sliders
 =====================
